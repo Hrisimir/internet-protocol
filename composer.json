@@ -1,0 +1,19 @@
+{
+    "name": "stepsoft/internet-protocol",
+    "description": "Useful library for working with IP addresses in full or partial form.",
+    "authors": [
+        {
+            "name": "Hrisimir Cholakov",
+            "email": "hrisimir.cholakov@stepsoft.bg"
+        }
+    ],
+    "require": {
+
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "StepSoft\\InternetProtocol": "src/"
+        }
+    }
+}
